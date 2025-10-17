@@ -1,0 +1,10 @@
+{
+  "account_help": "You can reset or change your password by selecting 'Forgot Password' on the login page. If you're still unable to access your account, please contact our support team for help.",
+  "card_issue": "If your card is lost, stolen, or damaged, please block it immediately through the mobile app or call our helpline at 1800-XXXX-XXXX. You can also request a replacement card from your account settings.",
+  "transaction_query": "You can view or download your transaction history from the 'Transactions' section of your account dashboard. It includes all payments, transfers, and account activity.",
+  "account_closure": "To close your account, please submit a closure request through customer support or your online account settings. Make sure all dues are cleared before requesting closure.",
+  "card_info": "Our credit card interest rates range from 12% to 18% annually, depending on the card type. You can also request a credit limit increase from your account page or by contacting support.",
+  "refund_issue": "Refunds are typically processed within 5–7 business days. If you haven’t received yours yet, please check your transaction history or contact support with your transaction ID for quick help.",
+  "contact_support": "You can contact our customer support team anytime via chat, email at support@example.com, or by calling 1800-XXXX-XXXX. We’re always happy to help.",
+  "transaction_issue": "If your payment failed or your transaction didn’t go through, please wait a few hours — sometimes banks take time to confirm. If money was deducted but not credited, share your transaction details with our support team for resolution."
+}

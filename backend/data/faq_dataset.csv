@@ -1,0 +1,91 @@
+query,intent
+How do I reset my password?,account_help
+I forgot my password,account_help
+Help me change my password,account_help
+I can’t log in to my account,account_help
+Password reset link not working,account_help
+I need help with my account login,account_help
+My password isn’t working,account_help
+How to recover my account?,account_help
+Unable to access my account,account_help
+How do I change my account password?,account_help
+My card is lost what should I do?,card_issue
+I lost my credit card,card_issue
+My debit card got stolen,card_issue
+I want to block my card,card_issue
+My card isn’t working,card_issue
+How can I request a new card?,card_issue
+Card not delivered yet,card_issue
+My card got damaged,card_issue
+I need a replacement for my lost card,card_issue
+Someone used my card without permission,card_issue
+How can I check my transaction history?,transaction_query
+Show me my transaction history,transaction_query
+How do I see my past transactions?,transaction_query
+View my recent account transactions,transaction_query
+Check my previous payments,transaction_query
+Where can I find my payment history?,transaction_query
+I want to see my spending details,transaction_query
+Show all my debit transactions,transaction_query
+View all money transfers from my account,transaction_query
+How to download my transaction statement?,transaction_query
+I want to close my account,account_closure
+How do I delete my account?,account_closure
+Please close my bank account,account_closure
+I want to deactivate my account,account_closure
+Help me terminate my account,account_closure
+Can you guide me to close my account?,account_closure
+I don’t want this account anymore,account_closure
+How to permanently close my account?,account_closure
+I’m moving banks please close my account,account_closure
+Delete my profile and account details,account_closure
+What is the interest rate on credit cards?,card_info
+Tell me the credit card interest rate,card_info
+How much interest do you charge on cards?,card_info
+What’s the current APR on credit cards?,card_info
+Explain the credit card rate of interest,card_info
+Interest rate for new credit cards?,card_info
+What’s the annual percentage on my card?,card_info
+Is the card interest fixed or variable?,card_info
+Tell me the interest rate for gold card,card_info
+What’s the interest on delayed payments?,card_info
+I didn’t receive my refund,refund_issue
+Where is my refund?,refund_issue
+My refund is missing,refund_issue
+It’s been days still no refund,refund_issue
+I was promised a refund but didn’t get it,refund_issue
+When will I get my refund?,refund_issue
+Refund not credited to my account,refund_issue
+Payment reversed but refund not received,refund_issue
+Still waiting for my refund,refund_issue
+Refund taking too long,refund_issue
+How can I contact customer care?,contact_support
+Give me the customer support number,contact_support
+I want to talk to customer service,contact_support
+How to contact your helpdesk?,contact_support
+Need assistance from support team,contact_support
+How do I reach your help center?,contact_support
+Provide me your helpline number,contact_support
+I want to speak to an agent,contact_support
+Customer care contact details please,contact_support
+Where can I reach your customer service?,contact_support
+How do I increase my credit limit?,card_info
+I want a higher card limit,card_info
+Can I increase my card limit?,card_info
+How to request a credit limit increase?,card_info
+Help me raise my credit limit,card_info
+What’s the maximum limit on my credit card?,card_info
+I need a credit limit upgrade,card_info
+Can I get more spending limit?,card_info
+Increase my card limit please,card_info
+Want to expand my card limit,card_info
+Payment failed on my account,transaction_issue
+My payment didn’t go through,transaction_issue
+Transaction failed but money deducted,transaction_issue
+Payment not processed,transaction_issue
+Payment showing failed,transaction_issue
+Why did my transaction fail?,transaction_issue
+Issue with online payment,transaction_issue
+My transfer didn’t complete,transaction_issue
+Transaction error occurred,transaction_issue
+Payment unsuccessful,transaction_issue
